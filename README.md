@@ -10,9 +10,9 @@
 
 ### 👨‍💻: About me
 
-I am a Bot Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I'm a bot developer since 2022. I also write my own website
+- :telescope: I'm a bot developer since 2022.
 
 - :seedling: Exploring Technical Content Writing.
 
