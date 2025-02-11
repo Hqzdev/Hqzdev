@@ -12,7 +12,7 @@
 
 I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I'm a bot developer since 2022.
+- :telescope: I'm a developer since 2022.
 
 - :seedling: Exploring Technical Content Writing.
 
