@@ -65,10 +65,17 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-Growing-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-Growing-000?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-Growing-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hqzdev&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hqzdev&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hqzdev&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hqzdev&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hqzdev&theme=gruvbox_light&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hqzdev&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 
 
