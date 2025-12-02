@@ -44,19 +44,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md.local&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=md.local&theme=gruvbox_light&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md.local&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=md.local&icon=0&color=10)](https://visitcount.itsvg.in)
 
