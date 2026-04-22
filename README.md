@@ -2,7 +2,7 @@
 
 *I build products that make money, not just fill a portfolio.*
 
-[ GitHub ] • [ Telegram / Discord / Email ]
+[ GitHub ](https://github.com/Hqzdev/) • [ Telegram / Discord / Email ]
 
 ---
 
