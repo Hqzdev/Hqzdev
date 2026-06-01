@@ -1,237 +1,128 @@
-# md.local — Founder, Tech Lead & AI Entrepreneur
+# md.local — Developer & Founder
 
-*I build products that make money, not just fill a portfolio.*
-
-[ GitHub ](https://github.com/Hqzdev/) • [ Telegram / Discord / Email ]
+Building production SaaS products and AI-powered tools. Working with clients from US, EU, and CIS.
 
 ---
 
-## 🧩 About Me
+## Freelance & Consulting
 
-**md.local** — developer & founder focused on product and business outcomes.
+Available for product and engineering work through Fiverr and direct contracts.
 
-I build products that make money, not just fill a portfolio. My approach combines startup mindset with technical excellence—fast hypothesis testing, analytics-driven decisions, and scale-first thinking. I've worked with clients from US, EU and CIS, delivering everything from single landing pages to full SaaS and AI products.
+**Team capabilities:**
+- Full-cycle product delivery — discovery, architecture, frontend, backend, deployment
+- AI & automation — workflow automation, AI-powered features, integrations
+- SaaS development — multi-tenant apps, payment flows, subscription management
 
-**What I do:**
-- 🧠 **AI & Automation** — chatbots, AI assistants, workflow & operations automation
-- 📈 **Full-cycle product delivery** — discovery, UX/UI, backend, frontend, deployment, support
-- 🌍 **Global projects** — clients from US, EU and CIS
-
-**md.local Team on Fiverr:**
-- 👥 **Own team** on Fiverr — developers, designers, ML/AI engineers
-- 🎯 **Focus** — revenue growth, conversion, LTV and process optimization
-- ✅ **Format** — clear offers, transparent timelines, result-oriented delivery
+**Clients served:** US, EU, CIS markets
 
 ---
 
-## ⭐ Featured Projects
+## Projects
 
-| Project                                             | Description                                                           | Stack                         |
-| --------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------- |
-| [Yoku Discord Bot](https://github.com/Hqzdev/Yoku-Discord-Bot) | All-in-one Discord community management platform with moderation, economy, and automation | Node.js, Discord.js, MongoDB  |
-| [Pathly](https://github.com/Hqzdev/Pathly) | Self-discovery platform with 5-minute personality assessment via Telegram Mini App | Next.js, TypeScript, Telegram |
-| [BizStruct](https://github.com/Hqzdev/BizStruct) | AI-powered business intelligence layer connecting email and Telegram to Notion | Next.js, Python, Flask, AI    |
-| [Lumia AI](https://github.com/Hqzdev/Lumia) | Premium conversational AI platform with human-centered design and multi-model support | Next.js, React, AI APIs       |
-| [Yoku Web](https://github.com/Hqzdev/Yoku-Web) | Modern web interface for Yoku Discord Bot with interactive dashboards | Next.js, TypeScript, Tailwind |
+### [Metrix](https://metrixplatform.vercel.app) — Coworking & Office Booking Platform
 
-*For more projects, check out my [GitHub repositories](https://github.com/Hqzdev).*
+> *In development*
 
----
+Platform for booking coworking spaces, meeting rooms, and private offices. Covers the full booking lifecycle: slot selection, payments, calendar sync, and admin operations.
 
-## 🎯 Project Highlights
-
-### Yoku Discord Bot
-**Problem it solves:** Discord server administrators need multiple bots for moderation, economy, music, and engagement—each with different APIs, configurations, and maintenance overhead.
-
-**Key features:**
-- Intelligent auto-moderation with multi-layer spam detection and cross-server ban sharing
-- Dual-currency economy system with role marketplace, clans, and leaderboards
-- Zero-configuration start with intelligent defaults that adapt to your community
-
-**What makes it special:** Platform architecture, not a feature set. Every module works independently while seamlessly integrating—enable exactly what you need without bloat. Built to scale from 10 members to 100,000+ with MongoDB-based persistence and optimized performance.
+| Property | Details |
+|---|---|
+| **Status** | In development |
+| **Type** | B2B SaaS / Platform |
+| **Services** | `bot-gateway` · `booking-service` · `payment-service` · `calendar-service` · `analytics-service` · `admin-service` · `security-service` · `notification-service` · `worker-service` |
+| **Shared packages** | `@metrix/audit-log` · `@metrix/auth` · `@metrix/rbac` · `@metrix/observability` · `@metrix/redis-bus` · `@metrix/contracts` · `@metrix/error-tracker` |
+| **Events** | Redis Streams · BullMQ · DLQ replay · idempotency · slot locking |
+| **Payments** | Invoice/hold/confirm/cancel saga · compensation flows |
+| **Observability** | Prometheus · Grafana · OpenTelemetry tracing · structured JSON logs · GlitchTip |
+| **Security** | HMAC service-to-service auth · JWT with key rotation · token blacklist · RBAC · audit log |
+| **Contracts** | OpenAPI 3.1 · TypeScript contracts · CI validation |
+| **Quality gates** | typecheck · unit · integration · e2e · contract · security audit |
+| **Stack** | TypeScript · Next.js 16 · React 19 · Node.js · PostgreSQL · Prisma · Redis · Traefik · Docker Compose · MinIO |
 
 ---
 
-### Pathly
-**Problem it solves:** Most self-discovery tools are either too complex (hours-long questionnaires) or too superficial (generic advice). People spend months trying different directions without understanding their true strengths.
+### [Operon](https://github.com/Hqzdev/Operon) — Ad Campaign Decision Engine
 
-**Key features:**
-- 16-question adaptive personality assessment delivering accurate results in 5 minutes
-- Emotional depth with risk analysis, common mistakes, and immediate actionable steps (not generic descriptions)
-- Telegram-native architecture with seamless Mini App integration and Telegram Stars payment
+Live SaaS tool for Shopify and DTC advertisers. Takes campaign metrics and outputs a structured decision: **SCALE / KILL / TEST AGAIN / FIX**.
 
-**What makes it special:** Bridges the gap between knowing you need to change and knowing exactly what to change. Identifies four core personality archetypes (Creator, Builder, Analyst, Organizer) with vivid metaphors and specific micro-actions. Multilingual support (EN/RU) with zero page reload.
-
----
-
-### BizStruct
-**Problem it solves:** Business owners live in Telegram and Gmail, but their work lives scattered across dozens of apps, notes, and inboxes. Critical business data gets lost in inbox noise or requires manual entry into multiple systems.
-
-**Key features:**
-- AI-powered email classification and Telegram command capture with instant Notion sync
-- Smart extraction of deadlines, amounts, priorities, and contact information automatically
-- Daily summary reports delivered in Telegram with today's tasks, overdue items, and key metrics
-
-**What makes it special:** Invisible layer between communication channels and knowledge base. No code setup—connect Gmail and Notion in under 2 minutes. AI-native architecture built on Groq's Qwen 2.5 for fast, accurate classification that learns from your patterns. Your data stays in your Notion workspace—we never store information on our servers.
+| Property | Details |
+|---|---|
+| **Status** | Live |
+| **Type** | SaaS · Freemium |
+| **Core output** | Decision + confidence score · funnel breakdown · break-even CPA/ROAS · diagnosis · creative angle suggestions |
+| **Input** | CTR · CPC · CPM · CPA · ROAS · funnel conversion rates · product margin |
+| **Pro features** | Budget allocator across ad sets · scenario simulator |
+| **Tiers** | Starter (free, 10/mo) · Basic · Pro |
+| **Payments** | YooKassa (cards, SBP) |
+| **Integrations** | Meta Marketing API · TikTok Marketing API · Shopify Admin API (read-only OAuth) |
+| **AI** | GigaChat-2-Pro · rule-based fallback |
+| **Stack** | Next.js 16 · React 19 · TypeScript · PostgreSQL · Prisma · Vercel |
 
 ---
 
-### Lumia AI
-**Problem it solves:** Most AI chat interfaces feel cold and transactional—functional but forgettable, designed like tools rather than experiences.
+### [BizStruct](https://github.com/Hqzdev/BizStruct-Web) — Business Control Center
 
-**Key features:**
-- Multi-model support (Claude, GPT-4, Gemini, DeepSeek) with instant switching and personality customization
-- Human-centered design with GPU-accelerated animations and premium aesthetics (SF Pro-inspired typography)
-- Privacy-native architecture with end-to-end encryption and local-first processing
+Web app for small business owners. Connects Gmail via OAuth, classifies incoming work with AI, and surfaces tasks, projects, clients, and finances in one dashboard.
 
-**What makes it special:** First AI platform where emotional intelligence meets technical excellence. Every pixel, animation, and interaction crafted to make AI feel less like software and more like talking to a brilliant friend. Streaming responses, progressive rendering, and seamless model switching—built from the ground up with AI at the core.
-
----
-
-### Yoku Web
-**Problem it solves:** Discord bot administrators need an intuitive web interface to manage settings, view analytics, and configure features without diving into command syntax.
-
-**Key features:**
-- Interactive dashboard with real-time metrics, feature highlights, and command reference
-- Responsive design optimized for all devices with smooth animations and modern UI
-- Comprehensive documentation integrated directly into the interface
-
-**What makes it special:** Editorial elegance meets product functionality. Clean, information-dense interface that doesn't overwhelm. Every feature is discoverable but not intrusive. Built with Next.js 16 and TypeScript for type safety and performance.
+| Property | Details |
+|---|---|
+| **Status** | Live |
+| **Type** | SaaS · Subscription |
+| **Core flow** | Gmail OAuth → AI classification → structured task/project creation |
+| **Workspaces** | Tasks · Projects · Clients · Finances |
+| **AI** | OpenRouter — email classification and content refinement |
+| **Auth** | Session-based · Google OAuth via Supabase |
+| **Payments** | YooKassa · plan-gated feature access |
+| **Stack** | Next.js 14 · React 18 · TypeScript · PostgreSQL · Vercel |
 
 ---
 
-## 🛠️ Tech Stack
+### [Opsys](https://github.com/Hqzdev/Opsys) — AI Ops Automation MVP
+
+Demand-validation MVP for founder-led SaaS teams. One workflow: AI lead qualification producing structured output — time saved estimate, CRM draft, Slack update, approval boundaries.
+
+| Property | Details |
+|---|---|
+| **Status** | Validation MVP |
+| **Type** | B2B SaaS · Demand validation |
+| **Scope** | Landing page · one AI workflow · lightweight persistence |
+| **AI** | Claude via Anthropic Messages API · deterministic fallback |
+| **Storage** | Supabase · local JSON fallback |
+| **Auth** | Google OAuth via Supabase |
+| **Stack** | Next.js · TypeScript · Tailwind CSS · Supabase · Vercel |
+
+---
+
+## Tech Stack
 
 ### Frontend
-**Frameworks & Libraries:**
-- Next.js 15/16 (App Router, Server Components)
+- Next.js 15/16 (App Router, Server Components, Server Actions)
 - React 18/19 (Concurrent Features)
-- TypeScript (strict mode)
-
-**Styling & UI:**
-- Tailwind CSS 4
-- Radix UI (accessible primitives)
-- shadcn/ui (component foundation)
-- Framer Motion / Custom animations
-
-**Icons & Assets:**
-- Lucide Icons
-- Custom SVG illustrations
-
----
+- TypeScript (strict)
+- Tailwind CSS 4, Radix UI, shadcn/ui, Framer Motion
 
 ### Backend
-**Runtime & Frameworks:**
-- Node.js v18+ (Discord bots, APIs)
+- Node.js v18+ (microservices, APIs)
 - Python 3.11+ (Flask, AI processing)
-- Next.js API Routes (Server Actions)
+- PostgreSQL · Prisma · Drizzle ORM
+- Redis · BullMQ · Redis Streams
+- MongoDB Atlas (legacy projects)
 
-**Databases:**
-- MongoDB Atlas (Discord bots, user data)
-- PostgreSQL (production apps)
-- SQLite (development)
+### AI & Integrations
+- Anthropic Claude · OpenAI GPT-4 · GigaChat · OpenRouter · DeepSeek · Gemini
+- Meta Marketing API · TikTok Marketing API · Shopify Admin API · Google Calendar OAuth
+- Payment: YooKassa, Telegram Stars
 
-**ORMs & Tools:**
-- Mongoose (MongoDB)
-- SQLAlchemy (Python)
-- Drizzle ORM (PostgreSQL)
-
----
-
-### AI & ML
-**Providers & Models:**
-- Groq (Qwen 2.5 72B — fast, free)
-- OpenAI (GPT-4, GPT-3.5)
-- Anthropic (Claude)
-- DeepSeek (affordable alternative)
-- Google (Gemini)
-
-**Frameworks:**
-- TensorFlow
-- PyTorch
-- scikit-learn
-- Keras
-
----
-
-### DevOps & Tools
-**Development:**
+### Infrastructure
 - Docker & Docker Compose
-- Git & GitHub Actions
-- CI/CD pipelines
-- ESLint, Prettier, Biome
-
-**Hosting & Infrastructure:**
-- Vercel (Edge Network, frontend)
-- MongoDB Atlas (database)
-- Cloud platforms (AWS, GCP)
-
-**Monitoring & Analytics:**
-- Vercel Analytics
-- Custom event tracking
-- Performance monitoring
+- Traefik v3
+- Vercel (edge deployment)
+- Prometheus · Grafana · GlitchTip (OpenTelemetry)
+- MinIO / S3-compatible storage
+- GitHub Actions CI/CD
 
 ---
 
-## 💼 Work Principles
+## Contact
 
-### 1. **Product Mindset**
-Build products that solve real problems and generate revenue. Every feature must pass the "does it move the needle?" test. Fast hypothesis testing, analytics-driven decisions, and user feedback loops.
-
-### 2. **Code Quality**
-TypeScript everywhere. Clean architecture, modular design, and comprehensive error handling. Code should be readable, maintainable, and scalable—not clever for cleverness' sake.
-
-### 3. **UX First**
-Beautiful design is table stakes. Every interaction should feel natural, delightful, and fast. User experience trumps technical elegance. If users can't figure it out, it's not good enough.
-
-### 4. **Ownership Mentality**
-Own the entire product lifecycle—from discovery to deployment to support. Understand the business context, not just the code. Ship fast, iterate faster, take responsibility for outcomes.
-
-### 5. **Privacy-First Architecture**
-User data belongs to users. Encrypted storage, local-first processing, and transparent data handling. We never collect what we don't need, and we never share what we collect.
-
-### 6. **Scale-First Thinking**
-Build for 100x, not 10x. Architecture should handle growth gracefully. Performance optimization from day one. Database indexing, caching strategies, and efficient algorithms aren't afterthoughts—they're foundations.
-
----
-
-## 🚀 Current Focus
-
-### **Now**
-- Shipping production-ready features for Yoku Discord Bot (economy system, clan features, moderation tools)
-- Expanding Pathly's personality profiles and resource database
-- Building BizStruct's email processing pipeline and AI classification engine
-- Polishing Lumia AI's multi-model support and personality customization
-
-### **Next**
-- Advanced analytics dashboards for all products
-- Mobile apps (iOS/Android) for key platforms
-- API access and developer documentation
-- Team collaboration features and multi-workspace support
-- Custom AI model fine-tuning for specialized use cases
-
-### **Future**
-- AI-powered content moderation and spam detection
-- Voice input/output for conversational AI
-- Multi-modal AI (vision + language)
-- Integration marketplace and plugin ecosystem
-- White-label solutions for enterprise clients
-
----
-
-## 🤝 Let's Build Something
-
-> Open to collaboration, startups and meaningful projects.
-> Let's build something that actually matters.
-
-[GitHub](https://github.com/Hqzdev) • [Telegram](https://t.me/Osaslime) • [Discord](https://discord.com/users/1268562577080713282)
-
----
-
-<div align="center">
-
-**Made with ❤️ by md.local**
-
-*Building products that make money, not just fill portfolios.*
-
-</div>
+[GitHub](https://github.com/Hqzdev) · [Telegram](https://t.me/Osaslime) · [Discord](https://discord.com/users/1268562577080713282)
