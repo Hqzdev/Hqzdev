@@ -28,12 +28,14 @@ My interests are developer tools, AI systems and products that make complex work
 
 A selection of systems that show how I approach architecture, developer experience and product delivery.
 
-<img src="assets/readme/project-flows.svg" width="100%" alt="Five project flows: Tether captures and replays agent calls; Slate syncs collaborative work; Grounded retrieves evidence for cited answers; Pilot Agent plans, builds and verifies work; Metrix connects availability to booking and payment.">
+<img src="assets/readme/project-flows.svg" width="100%" alt="Seven project flows: Tether captures and replays agent calls; Slate syncs collaborative work; Synq turns research sources into notes and podcasts; Knot exposes message routes and retained history; Grounded retrieves evidence for cited answers; Pilot Agent plans, builds and verifies work; Metrix connects availability to booking and payment.">
 
 | Project | Product | Engineering focus |
 | --- | --- | --- |
 | **[Tether](https://github.com/Hqzdev/Tether)** | A local-first command center for debugging AI agents, with a native macOS app and a shared Rust proxy. | Request capture, trace inspection, caching and replay. |
 | **[Slate](https://github.com/Hqzdev/Slate)** | A collaborative workspace for code, notes, architecture diagrams and execution. | Real-time synchronization, reviewable AI drafts and container-based runs. |
+| **[Synq](https://github.com/Hqzdev/synq)** | A self-hosted research workspace for documents, websites, audio, video and notes. | Hybrid search, source-grounded chat, background processing and multi-speaker podcasts. |
+| **[Knot](https://github.com/Hqzdev/Knot)** | An experimental messenger and privacy anti-pattern exhibit that makes message retention and exposure visible. | Go services, gRPC routing, event-driven delivery, presence and message tracing. |
 | **[Grounded](https://github.com/Hqzdev/Grounded)** | A workspace for asking questions over documents and inspecting the supporting sources. | Asynchronous indexing, tenant-scoped retrieval and persisted citations. |
 | **[Pilot Agent](https://github.com/Hqzdev/pilot-agent)** | A terminal agent for moving from an idea through planning, implementation and verification. | Resumable state, interchangeable providers, execution backends and acceptance checks. |
 | **[Metrix](https://github.com/Hqzdev/Metrix)** | A booking platform for coworking spaces, offices and meeting rooms, currently in development. | Booking and payment workflows, event processing and shared service contracts. |
@@ -54,6 +56,22 @@ Yjs and a dedicated WebSocket service synchronize code, notes and canvas state. 
 A separate BullMQ worker handles execution, including Docker runs with resource limits. Tests cover retries, duplicate application and conflicts with collaborator edits.
 
 **Technical choices:** Next.js, TypeScript, PostgreSQL, Yjs, Redis and Docker, with separate web, synchronization and execution processes.
+
+### Synq · turning sources into a research workspace
+
+Documents, websites, audio, video and notes feed a notebook workflow with hybrid search, source-grounded chat, transformations and podcast generation. FastAPI submits long-running work to a background worker; SurrealDB stores content, graph relationships, full-text indexes and vectors.
+
+LangGraph and a provider registry connect language, embedding and speech models. Local inference is available through configured local providers, while hosted models remain optional.
+
+**Technical choices:** Next.js, TypeScript, Python / FastAPI, SurrealDB, LangGraph and asynchronous commands.
+
+### Knot · making message behavior visible
+
+Knot Unsecure is an intentionally exposed messaging experiment. Its interface shows how drafts, edits, deleted originals and attachments remain visible across the system, making privacy failure modes part of the product itself.
+
+Message commands pass through Gateway, Router and Delivery services using WebSockets and gRPC. PostgreSQL retains message records; NATS JetStream carries events, Redis handles presence and drafts, and MinIO stores attachments. The browser controller coordinates the outbox, reconnection and catch-up.
+
+**Technical choices:** Go, Next.js, TypeScript, gRPC / Protobuf, NATS JetStream, PostgreSQL, Redis and MinIO.
 
 ### Grounded · answers with inspectable evidence
 
@@ -85,12 +103,12 @@ Tools used across the projects above.
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | TypeScript · Python · Rust · Swift |
+| **Languages** | TypeScript · Python · Rust · Swift · Go |
 | **Interfaces** | Next.js · React · SwiftUI · Monaco · Yjs |
-| **Services** | Node.js · FastAPI · Axum · REST / OpenAPI · WebSockets |
-| **Data and retrieval** | PostgreSQL · SQLite · Prisma · Qdrant · MinIO |
-| **Asynchronous work** | Redis · Redis Streams · BullMQ · RabbitMQ |
-| **AI systems** | Provider adapters · agent orchestration · retrieval pipelines · trace capture and replay |
+| **Services** | Node.js · FastAPI · Axum · REST / OpenAPI · WebSockets · gRPC / Protobuf |
+| **Data and retrieval** | PostgreSQL · SQLite · SurrealDB · Prisma · Qdrant · MinIO |
+| **Asynchronous work** | Redis · Redis Streams · BullMQ · RabbitMQ · NATS JetStream |
+| **AI systems** | Provider adapters · LangGraph · agent orchestration · retrieval pipelines · trace capture and replay |
 | **Delivery and operations** | Docker · GitHub Actions · pytest · OpenTelemetry · Prometheus · Grafana |
 
 ## GitHub snapshot
