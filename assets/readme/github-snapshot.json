@@ -1,0 +1,802 @@
+{
+  "capturedOn": "2026-09-06",
+  "sources": {
+    "repositories": "https://api.github.com/users/Hqzdev/repos?per_page=100&type=owner",
+    "contributions": "https://github.com/users/Hqzdev/contributions?from=2026-06-07&to=2026-09-05"
+  },
+  "scope": "Public non-fork repositories and the unauthenticated public GitHub contribution calendar. No private repository data.",
+  "repositoryCount": 50,
+  "primaryLanguages": {
+    "TypeScript": 21,
+    "Python": 16,
+    "JavaScript": 3,
+    "Swift": 3,
+    "Unclassified": 3,
+    "C#": 1,
+    "Dart": 1,
+    "Go": 1,
+    "Rust": 1
+  },
+  "period": {
+    "start": "2026-06-07",
+    "end": "2026-09-05"
+  },
+  "totalContributions": 228,
+  "activeDays": 33,
+  "weeks": [
+    {
+      "start": "2026-06-07",
+      "end": "2026-06-13",
+      "count": 44
+    },
+    {
+      "start": "2026-06-14",
+      "end": "2026-06-20",
+      "count": 65
+    },
+    {
+      "start": "2026-06-21",
+      "end": "2026-06-27",
+      "count": 0
+    },
+    {
+      "start": "2026-06-28",
+      "end": "2026-07-04",
+      "count": 92
+    },
+    {
+      "start": "2026-07-05",
+      "end": "2026-07-11",
+      "count": 2
+    },
+    {
+      "start": "2026-07-12",
+      "end": "2026-07-18",
+      "count": 8
+    },
+    {
+      "start": "2026-07-19",
+      "end": "2026-07-25",
+      "count": 7
+    },
+    {
+      "start": "2026-07-26",
+      "end": "2026-08-01",
+      "count": 2
+    },
+    {
+      "start": "2026-08-02",
+      "end": "2026-08-08",
+      "count": 1
+    },
+    {
+      "start": "2026-08-09",
+      "end": "2026-08-15",
+      "count": 0
+    },
+    {
+      "start": "2026-08-16",
+      "end": "2026-08-22",
+      "count": 0
+    },
+    {
+      "start": "2026-08-23",
+      "end": "2026-08-29",
+      "count": 0
+    },
+    {
+      "start": "2026-08-30",
+      "end": "2026-09-05",
+      "count": 7
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-06-07",
+      "level": 2,
+      "count": 14
+    },
+    {
+      "date": "2026-06-08",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-09",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-10",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-06-11",
+      "level": 1,
+      "count": 6
+    },
+    {
+      "date": "2026-06-12",
+      "level": 2,
+      "count": 14
+    },
+    {
+      "date": "2026-06-13",
+      "level": 1,
+      "count": 8
+    },
+    {
+      "date": "2026-06-14",
+      "level": 4,
+      "count": 25
+    },
+    {
+      "date": "2026-06-15",
+      "level": 2,
+      "count": 15
+    },
+    {
+      "date": "2026-06-16",
+      "level": 1,
+      "count": 8
+    },
+    {
+      "date": "2026-06-17",
+      "level": 1,
+      "count": 5
+    },
+    {
+      "date": "2026-06-18",
+      "level": 2,
+      "count": 9
+    },
+    {
+      "date": "2026-06-19",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-06-20",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-06-21",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-22",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-23",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-24",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-25",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-26",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-27",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-28",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-29",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-06-30",
+      "level": 3,
+      "count": 22
+    },
+    {
+      "date": "2026-07-01",
+      "level": 3,
+      "count": 23
+    },
+    {
+      "date": "2026-07-02",
+      "level": 4,
+      "count": 26
+    },
+    {
+      "date": "2026-07-03",
+      "level": 2,
+      "count": 12
+    },
+    {
+      "date": "2026-07-04",
+      "level": 1,
+      "count": 7
+    },
+    {
+      "date": "2026-07-05",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-07-06",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-07",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-08",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-09",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-10",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-11",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-12",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-07-13",
+      "level": 1,
+      "count": 6
+    },
+    {
+      "date": "2026-07-14",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-07-15",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-16",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-17",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-18",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-19",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-07-20",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-21",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-22",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-07-23",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-24",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-07-25",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-07-26",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-27",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-28",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-29",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-07-30",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-31",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-01",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-02",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-03",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-04",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-05",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-06",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-07",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-08-08",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-09",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-10",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-11",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-12",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-13",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-14",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-15",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-16",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-17",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-18",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-19",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-20",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-21",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-22",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-23",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-24",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-25",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-26",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-27",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-28",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-29",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-30",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-08-31",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-09-01",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-09-02",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-09-03",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-09-04",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-09-05",
+      "level": 1,
+      "count": 1
+    }
+  ],
+  "repositories": [
+    {
+      "name": "BizStruct",
+      "url": "https://github.com/Hqzdev/BizStruct",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Bizstruct-Google",
+      "url": "https://github.com/Hqzdev/Bizstruct-Google",
+      "primaryLanguage": "JavaScript"
+    },
+    {
+      "name": "Bolt-VPN",
+      "url": "https://github.com/Hqzdev/Bolt-VPN",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "By-Ha1zyy",
+      "url": "https://github.com/Hqzdev/By-Ha1zyy",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "deadline-guard",
+      "url": "https://github.com/Hqzdev/deadline-guard",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Diller-discord-bot",
+      "url": "https://github.com/Hqzdev/Diller-discord-bot",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Economy-Discord-Bot",
+      "url": "https://github.com/Hqzdev/Economy-Discord-Bot",
+      "primaryLanguage": "JavaScript"
+    },
+    {
+      "name": "eiojf",
+      "url": "https://github.com/Hqzdev/eiojf",
+      "primaryLanguage": null
+    },
+    {
+      "name": "first-telegram-bot",
+      "url": "https://github.com/Hqzdev/first-telegram-bot",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Flow",
+      "url": "https://github.com/Hqzdev/Flow",
+      "primaryLanguage": "Swift"
+    },
+    {
+      "name": "game",
+      "url": "https://github.com/Hqzdev/game",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Grounded",
+      "url": "https://github.com/Hqzdev/Grounded",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Hqzdev",
+      "url": "https://github.com/Hqzdev/Hqzdev",
+      "primaryLanguage": null
+    },
+    {
+      "name": "ielts-prep",
+      "url": "https://github.com/Hqzdev/ielts-prep",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Knot",
+      "url": "https://github.com/Hqzdev/Knot",
+      "primaryLanguage": "Go"
+    },
+    {
+      "name": "kwork-auto-offer",
+      "url": "https://github.com/Hqzdev/kwork-auto-offer",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "kwork-bot-2",
+      "url": "https://github.com/Hqzdev/kwork-bot-2",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Learning-websitre",
+      "url": "https://github.com/Hqzdev/Learning-websitre",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Lens-MCP",
+      "url": "https://github.com/Hqzdev/Lens-MCP",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Luma-Bank",
+      "url": "https://github.com/Hqzdev/Luma-Bank",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Lumia",
+      "url": "https://github.com/Hqzdev/Lumia",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Lumia-Ai-App",
+      "url": "https://github.com/Hqzdev/Lumia-Ai-App",
+      "primaryLanguage": "Dart"
+    },
+    {
+      "name": "Lumia-ai-main-page",
+      "url": "https://github.com/Hqzdev/Lumia-ai-main-page",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Lumia-Auth",
+      "url": "https://github.com/Hqzdev/Lumia-Auth",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Lumia-Dashboard",
+      "url": "https://github.com/Hqzdev/Lumia-Dashboard",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Lumia-Documentation",
+      "url": "https://github.com/Hqzdev/Lumia-Documentation",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Lumia-Support",
+      "url": "https://github.com/Hqzdev/Lumia-Support",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Metrix",
+      "url": "https://github.com/Hqzdev/Metrix",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Nerva",
+      "url": "https://github.com/Hqzdev/Nerva",
+      "primaryLanguage": "Swift"
+    },
+    {
+      "name": "Nerva-Web",
+      "url": "https://github.com/Hqzdev/Nerva-Web",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Openai-telegram-bot",
+      "url": "https://github.com/Hqzdev/Openai-telegram-bot",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Operon",
+      "url": "https://github.com/Hqzdev/Operon",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Opsy",
+      "url": "https://github.com/Hqzdev/Opsy",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Perch",
+      "url": "https://github.com/Hqzdev/Perch",
+      "primaryLanguage": "Rust"
+    },
+    {
+      "name": "pilot-agent",
+      "url": "https://github.com/Hqzdev/pilot-agent",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Quizlet",
+      "url": "https://github.com/Hqzdev/Quizlet",
+      "primaryLanguage": null
+    },
+    {
+      "name": "Recall-bot-",
+      "url": "https://github.com/Hqzdev/Recall-bot-",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Rinse",
+      "url": "https://github.com/Hqzdev/Rinse",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "RSS-bot",
+      "url": "https://github.com/Hqzdev/RSS-bot",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Samokat-Ready-Food-Scraper",
+      "url": "https://github.com/Hqzdev/Samokat-Ready-Food-Scraper",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Sentinel",
+      "url": "https://github.com/Hqzdev/Sentinel",
+      "primaryLanguage": "C#"
+    },
+    {
+      "name": "Slate",
+      "url": "https://github.com/Hqzdev/Slate",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Soviet-culture-festival-web",
+      "url": "https://github.com/Hqzdev/Soviet-culture-festival-web",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Sport-Shop",
+      "url": "https://github.com/Hqzdev/Sport-Shop",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "synq",
+      "url": "https://github.com/Hqzdev/synq",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "Telegram-bot-questionnaire",
+      "url": "https://github.com/Hqzdev/Telegram-bot-questionnaire",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Telegram-Bot-Stars",
+      "url": "https://github.com/Hqzdev/Telegram-Bot-Stars",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "telegram-bot-words",
+      "url": "https://github.com/Hqzdev/telegram-bot-words",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "Tether",
+      "url": "https://github.com/Hqzdev/Tether",
+      "primaryLanguage": "Swift"
+    },
+    {
+      "name": "yoku-discord",
+      "url": "https://github.com/Hqzdev/yoku-discord",
+      "primaryLanguage": "JavaScript"
+    }
+  ]
+}

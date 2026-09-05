@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="558" viewBox="0 0 1200 558" role="img" aria-labelledby="title description">
+<title id="title">GitHub contribution activity</title>
+<desc id="description">228 contributions across 33 active days, grouped into 13 weeks from 7 June through 5 September 2026. Weekly counts: 44, 65, 0, 92, 2, 8, 7, 2, 1, 0, 0, 0, 7. Counts follow the public GitHub contribution calendar.</desc>
+<rect width="1200" height="558" rx="16" fill="#080808"/>
+<text x="48" y="55" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="start">PUBLIC GITHUB / CONTRIBUTIONS</text>
+<text x="48" y="129" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="64" font-weight="600" text-anchor="start">228</text>
+<text x="48" y="164" fill="#a3a3a3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start">contributions</text>
+<text x="360" y="129" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="64" font-weight="600" text-anchor="start">33</text>
+<text x="360" y="164" fill="#a3a3a3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start">active days</text>
+<text x="1152" y="110" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" font-weight="400" text-anchor="end">07 JUN — 05 SEP 2026</text>
+<text x="1152" y="148" fill="#a3a3a3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" text-anchor="end">13 weeks · one bar per week</text>
+<path d="M112 444.0H1152" fill="none" stroke="#333333" stroke-width="1"/>
+<text x="88" y="451.0" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="end">0</text>
+<path d="M112 391.5H1152" fill="none" stroke="#333333" stroke-width="1"/>
+<text x="88" y="398.5" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="end">25</text>
+<path d="M112 339.0H1152" fill="none" stroke="#333333" stroke-width="1"/>
+<text x="88" y="346.0" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="end">50</text>
+<path d="M112 286.5H1152" fill="none" stroke="#333333" stroke-width="1"/>
+<text x="88" y="293.5" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="end">75</text>
+<path d="M112 234.0H1152" fill="none" stroke="#333333" stroke-width="1"/>
+<text x="88" y="241.0" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="end">100</text>
+<rect x="127" y="351.6" width="42" height="92.4" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="148" y="339.6" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">44</text>
+<text x="148" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">06/07</text>
+<rect x="207" y="307.5" width="42" height="136.5" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="228" y="295.5" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">65</text>
+<text x="228" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">06/14</text>
+<path d="M287 444H329" fill="none" stroke="#777777" stroke-width="2"/>
+<text x="308" y="432.0" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">0</text>
+<text x="308" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">06/21</text>
+<rect x="367" y="250.79999999999998" width="42" height="193.20000000000002" rx="2" fill="#f5f5f5" stroke="#f5f5f5"/>
+<text x="388" y="238.79999999999998" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">92</text>
+<text x="388" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">06/28</text>
+<rect x="447" y="439.8" width="42" height="4.2" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="468" y="427.8" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">2</text>
+<text x="468" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">07/05</text>
+<rect x="527" y="427.2" width="42" height="16.8" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="548" y="415.2" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">8</text>
+<text x="548" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">07/12</text>
+<rect x="607" y="429.3" width="42" height="14.700000000000001" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="628" y="417.3" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">7</text>
+<text x="628" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">07/19</text>
+<rect x="687" y="439.8" width="42" height="4.2" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="708" y="427.8" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">2</text>
+<text x="708" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">07/26</text>
+<rect x="767" y="441.9" width="42" height="2.1" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="788" y="429.9" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">1</text>
+<text x="788" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">08/02</text>
+<path d="M847 444H889" fill="none" stroke="#777777" stroke-width="2"/>
+<text x="868" y="432.0" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">0</text>
+<text x="868" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">08/09</text>
+<path d="M927 444H969" fill="none" stroke="#777777" stroke-width="2"/>
+<text x="948" y="432.0" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">0</text>
+<text x="948" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">08/16</text>
+<path d="M1007 444H1049" fill="none" stroke="#777777" stroke-width="2"/>
+<text x="1028" y="432.0" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">0</text>
+<text x="1028" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">08/23</text>
+<rect x="1087" y="429.3" width="42" height="14.700000000000001" rx="2" fill="#a3a3a3" stroke="#a3a3a3"/>
+<text x="1108" y="417.3" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="middle">7</text>
+<text x="1108" y="478" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="middle">08/30</text>
+<text x="48" y="527" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">WEEK START / MM/DD</text>
+<text x="1152" y="527" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="400" text-anchor="end">Snapshot: 06 Sep 2026</text>
+</svg>

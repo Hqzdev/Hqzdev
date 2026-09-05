@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="252" viewBox="0 0 1200 252" role="img" aria-labelledby="title description">
+<title id="title">Let&#x27;s build something worth leading</title>
+<desc id="description">Connect about product ideas, technical leadership and collaboration. GitHub, Telegram and Discord links follow in the README.</desc>
+<rect width="1200" height="252" rx="16" fill="#080808"/>
+<text x="48" y="51" fill="#a3a3a3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="400" text-anchor="start">NEXT CONVERSATION</text>
+<text x="48" y="111" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="44" font-weight="600" text-anchor="start">Let&#x27;s build something</text>
+<text x="48" y="163" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="44" font-weight="600" text-anchor="start">worth leading.</text>
+<text x="48" y="209" fill="#a3a3a3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start">Product ideas · Technical leadership · Collaboration</text>
+<rect x="1032" y="72" width="120" height="120" rx="60" fill="#f5f5f5" stroke="#f5f5f5"/>
+<path d="M1068 155L1114 109M1070 109H1114V153" fill="none" stroke="#080808" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
