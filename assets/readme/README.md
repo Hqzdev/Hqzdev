@@ -23,7 +23,7 @@ Composition: identity and a Tether execution specimen; a leadership table; proje
 | Asset | Source |
 | --- | --- |
 | `hero.svg` | Existing md.local identity, the owner's requested role, and Tether's capture / inspect / replay model. |
-| `project-flows.svg` | Public READMEs and selected implementation files in Tether, Slate, Grounded and Pilot Agent; the Synq and Knot READMEs; Metrix's architecture from the existing profile. |
+| `selected-projects.svg` | Public READMEs and selected implementation files in Tether, Slate, Grounded and Pilot Agent; the Synq and Knot READMEs; Metrix's architecture from the existing profile. |
 | `activity.svg` | Weekly sums from the unauthenticated public GitHub contribution calendar, 7 June–5 September 2026. |
 | `languages.svg` | GitHub's primary language for each public non-fork repository, captured 6 September 2026. |
 | `contact.svg` | The requested leadership and entrepreneurship positioning; existing profile contact links. |

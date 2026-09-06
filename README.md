@@ -28,7 +28,7 @@ My interests are developer tools, AI systems and products that make complex work
 
 A selection of systems that show how I approach architecture, developer experience and product delivery.
 
-<img src="assets/readme/project-flows.svg" width="100%" alt="Seven project flows: Tether captures and replays agent calls; Slate syncs collaborative work; Synq turns research sources into notes and podcasts; Knot exposes message routes and retained history; Grounded retrieves evidence for cited answers; Pilot Agent plans, builds and verifies work; Metrix connects availability to booking and payment.">
+<img src="assets/readme/selected-projects.svg" width="100%" alt="Seven project flows: Tether captures and replays agent calls; Slate syncs collaborative work; Synq turns research sources into notes and podcasts; Knot exposes message routes and retained history; Grounded retrieves evidence for cited answers; Pilot Agent plans, builds and verifies work; Metrix connects availability to booking and payment.">
 
 | Project | Product | Engineering focus |
 | --- | --- | --- |
