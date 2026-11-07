@@ -10,13 +10,13 @@ Proof: selected public projects and concrete implementation choices, followed by
 
 ## Visual direction
 
-Palette: background `#080808`, surface `#141414`, foreground `#f5f5f5`, secondary `#a3a3a3`, rules `#333333`. All authored colors are neutral grayscale.
+Palette: background `#f8fbff`, white card surfaces, foreground `#08304c`, secondary `#4a6479`, rules `#dae6ed`. Soft blush, sky and mint washes accompany blue, violet, pink, peach and green accents. The visual style follows [the owner's portfolio](https://hqzdev-portfolio.vercel.app/); the project selection and engineering facts come from GitHub.
 
-Typography: system sans-serif for headlines and diagram labels; system monospace for identity and metadata. No remote fonts.
+Typography: Onest for outlined display headings and Cormorant Garamond Italic for rainbow highlights, using the portfolio's local font files. Outlined lettering preserves the exact appearance without loading fonts. Selectable diagram labels use a system sans-serif stack. No remote fonts.
 
-Geometry: an 8-unit spacing grid, thin rules, restrained radii and generous margins. The recurring motif is a trace connecting inputs, system boundaries and outcomes.
+Geometry: an 8-unit spacing grid, thin rules, rounded white cards, pill-shaped trace nodes and generous margins. The recurring motif is a trace connecting inputs, system boundaries and outcomes. Opaque pastel surfaces retain the same light appearance on both GitHub themes.
 
-Composition: identity and a Tether execution specimen; a leadership table; project flows and implementation details; two measured charts; a contact panel.
+Composition: centered identity and a Tether execution specimen; seven individual project rows; two measured charts; a contact panel. The main README, including all prose, links, tables and dated statistics, remains unchanged. Visual refresh: 7 November 2026. The seven project READMEs were re-read for this refresh; no new production-readiness claims were added.
 
 ## Asset provenance
 
@@ -48,3 +48,4 @@ Activity counts use GitHub's contribution definitions. They describe the public 
 Language bars count repositories, not bytes, proficiency or time spent. The Other group contains C#, Dart, Go and Rust. Three repositories have no detected primary language and are explicitly excluded from the language bars. The dataset includes 50 public non-fork repositories, of which 47 have a detected language.
 
 All graphics are static and self-contained: no scripts, external images, web fonts, animation or `foreignObject`. The complete project descriptions and chart totals remain available as selectable Markdown. Opaque backgrounds preserve the intended appearance on both GitHub themes.
+
